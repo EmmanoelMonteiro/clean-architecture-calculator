@@ -2,7 +2,7 @@
 
 Uma calculadora simples implementada em HTML, CSS e JavaScript, seguindo princípios de **Clean Architecture** para separação de responsabilidades.
 
-![Preview da Calculadora](https://via.placeholder.com/300x500/333/FFFFFF?text=Calculator+Preview) *(Adicione uma imagem real posteriormente)*
+![Preview da Calculadora](calculadora.png)
 
 ## ✨ Funcionalidades
 - Operações básicas: `+`, `-`, `*`, `/`
